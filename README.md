@@ -44,7 +44,7 @@
 
 * [Power Up Tools](https://poweruptools.com) – AI product directory for discovery and launch visibility. Freemium listing options.
 * [AI Tool Hunt](https://aitoolhunt.com) – AI product directory for discovery and launch visibility. Free to submit.
-* [AI Tools Radar](https://aitoolsradar.com) – AI tools directory and industry news platform for discovery and launch visibility. Free to submit.
+* [AI Tools Radar](https://aitoolsradar.com) – Multilingual AI discovery directory with free public browsing; vendor submission and promotion are paid.
 * [AI Library](https://ailibrary.ai) – AI product directory for discovery and launch visibility. Free to submit.
 * [AIStage](https://aistage.net) – AI product directory for discovery and launch visibility. Free to submit.
 * [All Things AI](https://allthingsai.com) – AI product directory for discovery and launch visibility. Free to submit.
